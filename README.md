@@ -61,6 +61,10 @@ This Python script uses OpenCV to inpaint a marked area in a color image with li
    pip install opencv-python numpy
 
 
+## Image
+1.I have given images and mask image for refrences
+
+
 
 
 
