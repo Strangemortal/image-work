@@ -1,3 +1,9 @@
+#Image Processing Projects
+
+Welcome to the Image Processing Projects repository! This collection of Python scripts leverages popular libraries such as OpenCV, NumPy, and Matplotlib to perform various image processing tasks. Each project is designed to showcase specific functionalities and can be used as a starting point for further exploration and customization.
+
+
+
 # Image Inpainting App
 
 This Python script uses Tkinter for the GUI, OpenCV for image processing, and Pillow (PIL) for image display. The application allows users to inpaint an image based on a selected mask.
