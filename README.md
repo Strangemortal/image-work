@@ -1,4 +1,4 @@
-#Image Processing Projects
+# Image Processing Projects
 
 Welcome to the Image Processing Projects repository! This collection of Python scripts leverages popular libraries such as OpenCV, NumPy, and Matplotlib to perform various image processing tasks. Each project is designed to showcase specific functionalities and can be used as a starting point for further exploration and customization.
 
